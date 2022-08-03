@@ -1,0 +1,29 @@
+
+body{
+  padding-bottom: 1000px;
+}
+
+
+.grid-12{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  height: 300px;
+  column-gap: 20px;
+  row-gap: 40px;
+}
+
+
+
+
+
+.div-1{
+  background-color: lightblue;
+}
+
+.div-2{
+  background-color: lightpink;
+}
+
+.div-3{
+  background-color: lightblue;
+}
